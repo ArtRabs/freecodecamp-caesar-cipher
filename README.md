@@ -12,9 +12,10 @@ Run the main file:
 
 ## Progress
 
-- [ ] Step 1: feat(caesar): step1 add shift variable
+- [x] Step 1: feat(caesar): step1 add shift variable
 - [ ] Step 2: feat(caesar): step2 add alphabet string
 - [ ] Step 3: feat(caesar): step3 create shifted_alphabet and print
+- [ ] Step 4: feat(caesar): step4 implement wraparound using slicing and concatenation
 - ...
 
 ## Files of interest
