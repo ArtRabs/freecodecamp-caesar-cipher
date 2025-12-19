@@ -17,7 +17,7 @@ Run the main file:
 - [x] Step 3: feat(caesar): step3 create shifted_alphabet and print
 - [x] Step 4: feat(caesar): step4 implement wraparound using slicing and concatenation
 - [x] step 5: refactor(caesar): step5remove print statement for shifted_alphabet
-- [ ] step 6: 
+- [x] step 6: feat(caesar): step6 create translation table using str.maketrans
 - [ ] step 7:
 - [ ] step 8:
 - [ ] step 9:
