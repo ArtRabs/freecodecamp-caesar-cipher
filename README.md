@@ -19,11 +19,11 @@ Run the main file:
 - [x] step 5: refactor(caesar): step5remove print statement for shifted_alphabet
 - [x] step 6: feat(caesar): step6 create translation table using str.maketrans
 - [x] step 7: feat(caesar): step7 add sample text variable for encryption
-- [ ] step 8: feat(caesar): step8 encrypt text using translation_table
-- [ ] step 9:
-- [ ] step 10:
-- [ ] step 11:
-- [ ] step 12:
+- [x] step 8: feat(caesar): step8 encrypt text using translation_table
+- [ ] step 9: feat(caesar): step9 print encrypted output
+- [ ] step 10: feat(caesar): step10 wrap encryption logic into caesar function
+- [ ] step 11: feat(caesar): step11 return encrypted_text instead of printing
+- [ ] step 12: feat(caesar): step12 call caesar with sample input
 - [ ] step 13:
 - [ ] step 14:
 - [ ] step 15:
