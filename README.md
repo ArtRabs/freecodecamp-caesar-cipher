@@ -15,8 +15,8 @@ Run the main file:
 - [x] Step 1: feat(caesar): step1 add shift variable
 - [x] Step 2: feat(caesar): step2 add alphabet string
 - [x] Step 3: feat(caesar): step3 create shifted_alphabet and print
-- [ ] Step 4: feat(caesar): step4 implement wraparound using slicing and concatenation
-- [ ] step 5: chore(caesar): add debug print for shifted_alphabet
+- [x] Step 4: feat(caesar): step4 implement wraparound using slicing and concatenation
+- [ ] step 5: chore(caesar): step5add debug print for shifted_alphabet
 - [ ] step 6:
 - [ ] step 7:
 - [ ] step 8:
