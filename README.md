@@ -18,8 +18,8 @@ Run the main file:
 - [x] Step 4: feat(caesar): step4 implement wraparound using slicing and concatenation
 - [x] step 5: refactor(caesar): step5remove print statement for shifted_alphabet
 - [x] step 6: feat(caesar): step6 create translation table using str.maketrans
-- [ ] step 7:
-- [ ] step 8:
+- [x] step 7: feat(caesar): step7 add sample text variable for encryption
+- [ ] step 8: feat(caesar): step8 encrypt text using translation_table
 - [ ] step 9:
 - [ ] step 10:
 - [ ] step 11:
