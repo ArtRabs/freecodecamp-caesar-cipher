@@ -24,7 +24,7 @@ Run the main file:
 - [x] step 10: feat(caesar): step10 wrap encryption logic into caesar function
 - [x] step 11: feat(caesar): step11 add text and shift as parameters and remove text and shift in function body
 - [x] step 12: feat(caesar): step12 call caesar with sample input
-- [ ] step 13: feat(caesar): step13 call caesar and print result
+- [x] step 13: feat(caesar): step13 call caesar and print result
 - [ ] step 14: feat(caesar): step14 return translation directly and remove print
 - [ ] step 15: feat(caesar): step15 include uppercase mapping in translation_table
 - [ ] step 16: feat(caesar): step16 add validation stub for shift and return error message
