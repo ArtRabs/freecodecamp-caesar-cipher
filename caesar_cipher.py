@@ -9,3 +9,4 @@ def caesar(text, shift):
     print(encrypted_text)
 
 encrypted_text = caesar("freeCodeCamp", 3)
+print(encrypted_text)
