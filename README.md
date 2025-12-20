@@ -21,7 +21,7 @@ Run the main file:
 - [x] step 7: feat(caesar): step7 add sample text variable for encryption
 - [x] step 8: feat(caesar): step8 encrypt text using translation_table
 - [x] step 9: feat(caesar): step9 print encrypted output
-- [ ] step 10: feat(caesar): step10 wrap encryption logic into caesar function
+- [x] step 10: feat(caesar): step10 wrap encryption logic into caesar function
 - [ ] step 11: feat(caesar): step11 add text and shift as parameters and remove text and shift in function body
 - [ ] step 12: feat(caesar): step12 call caesar with sample input
 - [ ] step 13: feat(caesar): step13 call caesar and print result
