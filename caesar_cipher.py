@@ -1,6 +1,6 @@
 def caesar(text, shift):
 
-    if True:
+    if isinstance(shift, int):
         return "Shift must be an integer value."
 
     alphabet = "abcdefghijklmnopqrstuvwxyz"
