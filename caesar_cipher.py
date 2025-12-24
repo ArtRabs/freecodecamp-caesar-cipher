@@ -16,5 +16,13 @@ def caesar(text, shift, encrypt = True):
 
     return text.translate(translation_table)
 
+def encrypt(text, shift):
+
+    return caesar(text, shift)
+
+def decrypt(text, shift):
+    
+    return caesar(text, shift, False)
+
 encrypted_text = caesar("freeCodeCamp", 3)
 print(encrypted_text)
