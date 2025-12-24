@@ -36,7 +36,7 @@ Run the main file:
 - [x] step 22: feat(caesar): step22 support decrypt by negating shift when encrypt is False
 - [x] step 23: feat(caesar): step23 add encrypt and decrypt wrapper functions
 - [x] step 24: feat(caesar): step24 replace direct caesar call with encrypt wrapper
-- [ ] step 25: feat(caesar): step25 test decrypt with sample input and print result
+- [x] step 25: feat(caesar): step25 test decrypt with sample input and print result
 
 ## Files of interest
 
