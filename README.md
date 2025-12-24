@@ -32,7 +32,7 @@ Run the main file:
 - [x] step 18: feat(caesar): step18 use not operator with isinstance to validate shift
 - [x] step 19: feat(caesar): step19 validate shift is positive and return error message
 - [x] step 20: feat(caesar): step20 validate shift is between 1 and 25 and update error message
-- [ ] step 21: feat(caesar): step21 add encrypt parameter with default True
+- [x] step 21: feat(caesar): step21 add encrypt parameter with default True
 - [ ] step 22: feat(caesar): step22 support decrypt by negating shift when encrypt is False
 - [ ] step 23: feat(caesar): step23 add encrypt and decrypt wrapper functions
 - [ ] step 24: feat(caesar): step24 replace direct caesar call with encrypt wrapper
