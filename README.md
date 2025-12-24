@@ -30,7 +30,7 @@ Run the main file:
 - [x] step 16: feat(caesar): step16 add validation stub for shift and return error message
 - [x] step 17: feat(caesar): step17 validate shift with isinstance check
 - [x] step 18: feat(caesar): step18 use not operator with isinstance to validate shift
-- [ ] step 19: feat(caesar): step19 validate shift is positive and return error message
+- [x] step 19: feat(caesar): step19 validate shift is positive and return error message
 - [ ] step 20: feat(caesar): step20 validate shift is between 1 and 25 and update error message
 - [ ] step 21: feat(caesar): step21 add encrypt parameter with default True
 - [ ] step 22: feat(caesar): step22 support decrypt by negating shift when encrypt is False
