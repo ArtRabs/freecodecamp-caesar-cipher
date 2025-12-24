@@ -28,7 +28,7 @@ Run the main file:
 - [x] step 14: feat(caesar): step14 return translation directly and remove print
 - [x] step 15: feat(caesar): step15 include uppercase mapping in translation_table
 - [x] step 16: feat(caesar): step16 add validation stub for shift and return error message
-- [ ] step 17: feat(caesar): step17 validate shift with isinstance check
+- [x] step 17: feat(caesar): step17 validate shift with isinstance check
 - [ ] step 18: feat(caesar): step18 use not operator with isinstance to validate shift
 - [ ] step 19: feat(caesar): step19 validate shift is positive and return error message
 - [ ] step 20: feat(caesar): step20 validate shift is between 1 and 25 and update error message
